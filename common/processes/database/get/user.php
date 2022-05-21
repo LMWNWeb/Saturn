@@ -145,6 +145,7 @@
         } else {
             $role = __('General:Unknown');
         }
+
         return $role;
     }
 

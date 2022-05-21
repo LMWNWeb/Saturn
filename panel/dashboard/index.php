@@ -405,7 +405,7 @@
                                 <div style="width:<?php if ($pageviews == 0) {
             echo 0;
         } else {
-            echo (($pageviews / $totalpageviews) * 100);
+            echo($pageviews / $totalpageviews) * 100;
         } ?>%" class="h-full text-center text-xs text-white bg-<?php echo THEME_PANEL_COLOUR; ?>-400 dark:bg-<?php echo THEME_PANEL_COLOUR; ?>-900">
                                 </div>
                             </div>
