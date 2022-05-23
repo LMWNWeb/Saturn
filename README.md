@@ -2,7 +2,7 @@
 Saturn is a powerful content management system for publishers, educators and everyone in-between. Saturn is a lightweight, blazing-fast and incredibly powerful CMS. Designed with speed, performance and reliability in mind, Saturn is perfect for websites of any size that can scale with ease.
 
 ## Feedback & Issue / Bug Tracker
-Submit Feedback, Suggestions, Bug Reports, and Issues: https://feedback.lmwn.co.uk/software-feedback
+Submit Feedback, Suggestions, Bug Reports, and Issues: https://feedback.lmwn.co.uk/software-feedback/?product=Saturn
 
 Issue Tracker: https://feedback.lmwn.co.uk/saturn/reports
 
