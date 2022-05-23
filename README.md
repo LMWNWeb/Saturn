@@ -13,7 +13,7 @@ Saturn is still in early access BETA. Please use with caution and be prepared fo
 ## Links
 Documentation: https://docs.saturncms.net
 
-Issue Tracker: https://tracker.lmwn.co.uk/issues/?p=saturn
+Issue Tracker: https://tracker.lmwn.co.uk/saturn
 
 Changelog: https://docs.saturncms.net/changelog
 
